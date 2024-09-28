@@ -6,7 +6,7 @@
 
 ---
 
-จัดทำขึ้นเพื่อศึกษาและทดลองใช้งาน php (pdo) ร่วมกับ MySQL Jquery AJAX DataTable SweetAlert2
+จัดทำขึ้นเพื่อศึกษาและทดลองใช้งาน php (pdo) ร่วมกับ MySQL, Jquery, AJAX, DataTable, SweetAlert2 และ Jquery Validate
 
 ---
 
