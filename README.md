@@ -49,26 +49,26 @@
 
 ### 🕯️วิธีเข้าใช้งาน
 
-   1. เข้าใช้งานได้ที่ : http://localhost/ชื่อ folder งาน/
+   1. เข้าใช้งานได้ที่ : http:// localhost / ชื่อ folder งาน /
 ---
 
 
 ### 💻 ตัวอย่างเว็บไซต์
 
 1. หน้าแรก
-   ![index]()
+   ![index](https://github.com/Adisak-KS/php-pdo-ajax-jquery-crud-example/blob/main/previews/01_index.png)
 
 2. หน้าจัดการ
-   ![index]()
+   ![index](https://github.com/Adisak-KS/php-pdo-ajax-jquery-crud-example/blob/main/previews/02_manag.png)
 
 3. เพิ่มข้อมูล
-   ![index]()
+   ![index](https://github.com/Adisak-KS/php-pdo-ajax-jquery-crud-example/blob/main/previews/03_add.png)
 
 4. แก้ไขข้อมูล
-   ![index]()
+   ![index](https://github.com/Adisak-KS/php-pdo-ajax-jquery-crud-example/blob/main/previews/04_edit.png)
 
 5. ลบข้อมูล
-   ![index]()
+   ![index](https://github.com/Adisak-KS/php-pdo-ajax-jquery-crud-example/blob/main/previews/05_del.png)
 
 
 
